@@ -22,3 +22,4 @@ Tes:
 - Versi Weka sebaiknya 3.8.x (`pom.xml` memakai 3.8.6).
 - Teks deskripsi tanaman ada di `service/CropCatalog.java`.
 # backend-iconfest
+# backend-iconfest

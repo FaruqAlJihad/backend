@@ -21,3 +21,4 @@ Tes:
 - Simpan model lewat Weka Explorer (klik kanan hasil > Save model) agar header atribut ikut tersimpan.
 - Versi Weka sebaiknya 3.8.x (`pom.xml` memakai 3.8.6).
 - Teks deskripsi tanaman ada di `service/CropCatalog.java`.
+# backend-iconfest
